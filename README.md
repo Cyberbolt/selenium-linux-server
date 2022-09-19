@@ -11,6 +11,7 @@ This solution only supports running Selenium in a Linux terminal without a graph
 ### Links
 - GitHub: https://github.com/Cyberbolt/selenium-linux-server
 - dockerhub: https://hub.docker.com/r/cyberbolt/selenium
+- CyberLight: https://www.cyberlight.xyz/
 
 ### Test Run
 
@@ -52,6 +53,7 @@ You can use this Selenium image just like a Python image. ( Docker [Official Tut
 ### 链接
 - GitHub: https://github.com/Cyberbolt/selenium-linux-server
 - dockerhub: https://hub.docker.com/r/cyberbolt/selenium
+- 电光笔记: https://www.cyberlight.xyz/
 
 
 ### 测试运行
@@ -81,3 +83,5 @@ Selenium automates browsers. That's it!
 将自己测试好的代码挂载至该容器中，使用 Docker 指定运行自己的代码文件。
 
 您可以像使用 Python 镜像一样使用该 Selenium 镜像。（Docker 运行 Python 镜像的[官方教程](https://docs.docker.com/language/python/)）
+
+
