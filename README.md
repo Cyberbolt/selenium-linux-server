@@ -1,6 +1,6 @@
 # selenium-linux-server
 
-[中文版](#selenium-linux-server (中文版))
+[中文版](https://github.com/Cyberbolt/selenium-linux-server#selenium-linux-server-%E4%B8%AD%E6%96%87%E7%89%88)
 
 This solution may be the simplest Linux server-side Selnenium running solution (no graphical interface) in the whole network. You don't need to install any extra environment, just pull the Docker image to run Selenium code.
 
