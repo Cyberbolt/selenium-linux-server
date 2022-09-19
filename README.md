@@ -41,6 +41,8 @@ Mount your tested code into the container, and use Docker to specify and run you
 
 You can use this Selenium image just like a Python image. ( Docker [Official Tutorial](https://docs.docker.com/language/python/) for running Python images )
 
+PS: If you need to specify the location of chromedriver manually, please select /opt/google/chrome/chromedriver
+
 # selenium-linux-server (中文版)
 
 此方案可能是全网最简的 Linux 服务端 Selnenium 运行方案(无图形界面)。您无需安装任何额外环境，拉取 Docker 镜像即可运行 Selenium 代码。
@@ -84,4 +86,4 @@ Selenium automates browsers. That's it!
 
 您可以像使用 Python 镜像一样使用该 Selenium 镜像。（Docker 运行 Python 镜像的[官方教程](https://docs.docker.com/language/python/)）
 
-
+PS: 如果需要手动指定 chromedriver 的位置，请选择 /opt/google/chrome/chromedriver
