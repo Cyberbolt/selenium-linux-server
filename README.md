@@ -8,7 +8,11 @@ The image is based on Python 3.7, Selenium 4.4.0 (can be updated using pip3), bu
 
 This solution only supports running Selenium in a Linux terminal without a graphical interface, and does not support testing code. Please complete the code in your native graphical interface first.
 
-### Test run
+### Links
+- GitHub: https://github.com/Cyberbolt/selenium-linux-server
+- dockerhub: https://hub.docker.com/r/cyberbolt/selenium
+
+### Test Run
 
 Make sure the machine has the Docker environment installed, first pull the image
 
@@ -30,7 +34,7 @@ Selenium automates browsers. That's it!
 
 Has run successfully! This test visits the [Selenium](https://www.selenium.dev/) official website and obtains the content of the h1 header.
 
-### Recommended usage plan
+### Recommended Usage Plan
 
 Mount your tested code into the container, and use Docker to specify and run your own code file.
 
@@ -43,6 +47,12 @@ You can use this Selenium image just like a Python image. ( Docker [Official Tut
 该镜像基于 Python 3.7，Selenium 4.4.0(可以使用 pip3 更新)，内置 Chrome 浏览器及驱动。
 
 该方案仅支持在无图形界面的 Linux 终端运行 Selenium，不支持测试代码，请先在您的本机图形界面中完善代码。
+
+
+### 链接
+- GitHub: https://github.com/Cyberbolt/selenium-linux-server
+- dockerhub: https://hub.docker.com/r/cyberbolt/selenium
+
 
 ### 测试运行
 
